@@ -1,4 +1,4 @@
 *.msh
 *.o
-cpp/torus
-cpp/heart
+01_meshes/cpp/torus
+01_meshes/cpp/heart
