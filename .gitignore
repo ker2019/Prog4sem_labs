@@ -1,4 +1,10 @@
 *.msh
 *.o
+*.vtu
 01_meshes/cpp/torus
 01_meshes/cpp/heart
+02_vtk/cpp/heart
+02_vtk/cpp/Makefile
+02_vtk/cpp/CMakeCache.txt
+02_vtk/cpp/CMakeFiles/
+02_vtk/cpp/*.cmake
