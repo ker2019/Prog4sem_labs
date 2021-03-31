@@ -1,6 +1,7 @@
 *.msh
 *.o
 *.vtu
+*.pvd
 01_meshes/cpp/torus
 01_meshes/cpp/heart
 02_vtk/cpp/heart
@@ -8,3 +9,8 @@
 02_vtk/cpp/CMakeCache.txt
 02_vtk/cpp/CMakeFiles/
 02_vtk/cpp/*.cmake
+03_fenics/cpp/CMakeFiles/
+03_fenics/cpp/Makefile
+03_fenics/cpp/*.cmake
+03_fenics/cpp/wave
+03_fenics/cpp/CMakeCache.txt
